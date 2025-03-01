@@ -1,5 +1,5 @@
 <?php
-// Absolute paths to the required files
+
 require_once 'C:/xampp/htdocs/TravelBookingMVC/Model/TravelOffer.php';
 require_once 'C:/xampp/htdocs/TravelBookingMVC/Controller/TravelOfferController.php';
 
